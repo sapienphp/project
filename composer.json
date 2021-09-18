@@ -1,0 +1,5 @@
+{
+    "name": "sapien/project",
+    "description": "The Sapien project for PHP.",
+    "require": {}
+}
